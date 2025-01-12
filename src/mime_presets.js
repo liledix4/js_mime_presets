@@ -1,4 +1,4 @@
-export const mimePreset = {
+export const mime = {
     html: 'application/x-www-form-urlencoded',
     json: 'application/json',
 };
